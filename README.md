@@ -1,5 +1,5 @@
 # getSize
-> Pega o tamanho de todos os subdiretorios de um diretorio especifico
+Pega o tamanho de todos os subdiretorios de um diretorio especifico
 
 ## Sobre
 Criei esse código para facilitar a busca de pastas pesadas principalmente na pasta da steam, para indentificar jogos pesados que não estou jogando
